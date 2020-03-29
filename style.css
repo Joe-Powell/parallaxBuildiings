@@ -1,0 +1,68 @@
+/* Parallax Scrolling Effect For Your Websites */
+p{
+    width:90%;
+    padding:25px;
+    margin: 0 auto;
+}
+.container {
+    padding:25px;
+    width:100%;
+    margin: 0 auto;
+    background-color: ;
+
+}
+
+.paralax {
+   height:200px;
+   padding:25px;
+    width:90%; 
+    background-image: url('images/cityThree.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 5px;
+
+
+}
+
+.container2 {
+    padding:25px;
+    width:100%; 
+    margin: 0 auto;
+    background-color: ;
+
+}
+
+.paralax2 {
+   height:200px;
+   padding:25px;
+   width:90%; 
+    background-image: url('images/cityFour.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 5px;
+
+
+}
+
+.container3 {
+    padding:25px;
+    width:100%; 
+    margin: 0 auto;
+    background-color: ;
+
+}
+
+.paralax3 {
+   height:200px;
+   padding:25px;
+   width:90%; 
+    background-image: url('images/cityFive.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 5px;
+
+
+}
